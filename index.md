@@ -20,13 +20,7 @@ I am the lead developer and also carry out project management for three projects
 __Bookings Trainee__ | Uniplaces  
 _Lisbon - Portugal  (June 2017 - September 2017)_
 
-First week consists of an introduction to the company and its departments, familiarization with the structure and flow of the company, followed by training sessions covering operations, sales, product development and capital raising and CRM software such as
-Zendesk, Talkdesk and NewVoiceMedia. Key tasks:
-- identification and isolation of prospective international clients;
-- subsequent conversion of prospective clients to actual purchasing customers (tenants);
-- analysis of available supply and potential supply (landlords and real estate firms);
-- mediation and negotiation of agreements between tenants and landlords;
-- coordination with the other departments of the company.
+Key tasks included identification and isolation of prospective international clients and subsequent conversion of prospective clients to actual purchasing customers (tenants); analysis of available supply and potential supply (landlords and real estate firms) and mediation and negotiation of agreements between tenants and landlords.
 
 [comment]: # 
 [comment]: # 
@@ -38,13 +32,7 @@ _The Hague - NL (Jan 2016 - June 2017)_
 - A Latin American and Venezuelan cuisine restaurant in The Hague, Netherlands (sold and closed).
 - Oversaw finances and accounting, marketing campaigns on online and offline platforms.
 - Developed the menu, entertainment, and general nature of the restaurant.
-- Gained feedback from clientele and used such feedback to improve the restaurant.
 
-__Global Support Intern__ | EYES International  
-_The Hague - NL (March 2016 - April 2016)_
-
-- Interviewing and data collection from members of the organization for purposes such as updating internal databases, gaining feedback, generating content for publishing and the establishment of new features and platforms to increase the value of the organization for the members.
-- Reaching out to third parties and other organizations for event planning and execution, as well as to expand our presence and ties with other entrepreneurial organizations.
 
 [comment]: # 
 
