@@ -1,136 +1,74 @@
-I am the Shell Upstream IDA's focal point for wells & reservoir projects, developing data science solutions, and supporting colleagues translate analytics into engineering and management language.
-My best technical skill is the ability to slice complex problems into modularised components that can be mathematically represented and solved with fit for purpose models.
-I have a professional engineering background, supported by further academic education in operational research and management sciences.
-Out of the office I enjoy spending time with my family, powerlifting, trekking and cycling throughout Den Haag.
+I am currently a Product/Data Analyst on the Upstream IDA team. The bulk of my work revolves around reservoir and well engineering projects for nearly all assets under Unconventionals. For this work, I apply analytics and programming skills to complex engineering problems, working closely with the business and subject matter experts to understand the task at hand. Additionally, as the lead developer for these projects, I manage the project documentation, maintain communication and ties, identify opporutnities to collaborate with other teams within Shell, and market the IDA team's work across Shell via presentations and other mediums.
+Out of work, I spend a lot of time doing indoor climbing, reading & writing, photography, traveling, and keeping up to date with various industry and business trends as well as politics.
 
-[comment]: # (When I move to a lead role add the following: 13+ years' experience in Oil & Energy, capturing in-depth commercial awareness across the industry. This spans E&P, refining, utilities and new energy)
-[comment]: # (decision scientist)
+[comment]: #
+[comment]: # 
 
-## [Professional Experience](https://www.linkedin.com/in/efs-alvarenga/)
-__Upstream Data Scientist__ | Shell Upstream IDA  
- _The Hague - NL (Sep 2018 - Present)_
+## [Professional Experience](https://www.linkedin.com/in/josephisai/)
+__Upstream & IG Analytics Analyst__ | Shell Upstream & IG IDA  
+ _The Hague - NL (Jan 2019 - Present)_
 
-I am the team focal point for wells, reservoir and facilities management, delivering data science and operational research projects for deep water and unconventional oil fields.
-- Delivered 2019's #1 project for unconventionals technology - the Early Productivity Index Calculator (EPIC) - which allows early assessment of wells' productivity index, with estimated NPV of US$ 3+ million
-- Conceived and currently delivering Brazilian Advanced Data Analytics (BRADA) program in areas such as reservoir engineering, production allocation and wells integrity surveillance, with an estimated NPV of US$ 4+ million
-- Support internal & external team development through on-the-job technical and business coaching
-- Leading three junior analysts and empowering them to delivery work packages that incrementallly build up complex analytics solutions, in a agile fashion
-- Up to date with current petroleum analytics tools, through SPE, academic and industry papers and self-development
-
-__Senior Data Scientist__ | WRc plc  
-_Swindon - UK  (Jul 2017 - Jun 2018)_
-
-Driving asset efficiency for the utilities industry through data science projects, turning raw data into actionable business intelligence while actively developing junior scientists and engineers.
-- Delivered machine learning predictive models for 5 different industry projects through R and H2O.ai
-- Co-developed a bespoke statistics platform to be commercialised as a service using Shiny
-- Played active commercial role in pre-sales engagement processes and proposal writing
-- Leaded data analytics training cohorts for the Environment Agency, Southern Water and DNV GL
-- Supported analysts' development through on-the-job technical coaching
-- Standardised data visualisations by developing an internal R package for graphics
-- Provided guidance on academic publishing of innovative data science models applied to utilities
-
-[comment]: # (responsible for project scoping)
-[comment]: # (leakage, water quality asset resilience, investment optimisation)
+I am the lead developer and also carry out project management for three projects under Unconventionals Technology, two of them currently being the highest valued projects within Unconventionals. The projects that delivered the most value from the Upstream IDA team in 2019 and is likely to remain so in 2020.
+- Lead development and manage from mid-2019 the #1 project in Unconventionals Technology - the Early Productivity Index Calculator (EPIC) - which allows early assessment of wells' productivity index and many other functions, with a delivered value of US$ 17 million in 2019. Nominated for 4 awards, including being shortlisted for the Global Development Awards, and winning the PTX/E VP award in the second half of 2019. 
+- Lead development and manage from mid-2019 the #2 project in Unconventionals Technology - the Production Optimization and Surveillance Tool (POST) - a tool for PTX that is used to predict unstable flow regimes and to analyze artifical lift strategies. Nominated for one award.
+- Led development and managed the project AutoProsper for UPU Argentina, enabling Argentina to have Bottom Hole Pressure calculations automated and automatically stored in their database. Currently scoping an update to the project that will integrate the AutoBHP product developed by the PTX and Digital Excellence teams, aiming for completion by end of Q1. Estimated NPV of US$ 1 million, realized value undetermined as of yet.
+- Participated in a hackathon in Bonny Island, Nigeria (April 2019) with Shell's JV NLNG, aiming to engineers and production technologists in applying analytics and other software to their challenges and use cases. Followed by a week of building ties with NLNG with the IDA team, and attempting to identify and frame use cases.
+- Replicated a workload tracking dashbaord for Shell's JV Basrah Gas Company in Iraq; this project is now handed over to the IDA team's Iraq focal point.
+- Business trip to Houston to carry out important work requiring co-location for the EPIC and POST projects; additionally building ties and gaining sponsorship between the IDA team and with UPU Technology and the global WRFM steering committee. This has helped bring more projects from PTX to the IDA pipeline.
+- On the organizing committee for the ConnectIT 2020 Conference.
+- Carried out self study on Reservoir Engineering to help me understand the subject matter behind my projects.
 
 
-__New Energies Researcher__ | University of Bath School of Management  
-_Bath - UK (Feb 2017 - Aug 2018)_
+__Bookings Trainee__ | Uniplaces  
+_Lisbon - Portugal  (June 2017 - September 2017)_
 
-My research extends the risk-return relationship, from the portfolio optimisation theory, for energy demand aggregation based on time-series forecasting.
-I hypothesise that a portfolio of customers, chosen through maximising the forecast accuracy, would be an ideal trading object within a peer-to-peer energy marketplace.
-- Responsible for designing an evolutionary optimisation model for time-series applications, using R
-- Collaborated with the Department of Electronic and Electrical Engineering to develop a smart-grid energy model for the UK and Korea peer-to-peer energy trading project
-- Presenting and participating in several forecasting forums and UK power industry conferences.
+First week consists of an introduction to the company and its departments, familiarization with the structure and flow of the company, followed by training sessions covering operations, sales, product development and capital raising and CRM software such as
+Zendesk, Talkdesk and NewVoiceMedia. Key tasks:
+- identification and isolation of prospective international clients;
+- subsequent conversion of prospective clients to actual purchasing customers (tenants);
+- analysis of available supply and potential supply (landlords and real estate firms);
+- mediation and negotiation of agreements between tenants and landlords;
+- coordination with the other departments of the company.
 
-__Production & Reservoir Engineer__ | Petrobras Ultra-Deep Waters  
-_Rio de Janeiro - Brazil (Apr 2014 - Dec 2016)_
+[comment]: # 
+[comment]: # 
 
-- **Reservoir simulation:** Within a team of engineers and geologists, developed and maintained a reservoir simulation process for the supergiant Lula oilfield (340 thousand barrels per day). This model supported strategic decision making, production forecasting and investment optimisation.
-    - Designed a machine learning oil/water permeability model for the oilfield implementing clustering and classification algorithms on Weka
-    - Delivered the 2016 oil reserves estimation (2.3 billion barrels) to U.S. Securities and Exchange Commission and Brazilian regulatory agency, using CMG GEM, Excel and VBA
-- **Production forecast:** Responsible for the oil production estimation of seven multi-billion projects.
-    - Collaborated with stakeholders such as project managers, executive board and the regulatory agency
-    - Developed and maintained a sixteen-month ahead forecasting model on Excel, comprising seven offshore platforms and over 30 wells connected to the same gas pipeline infrastructure, with more than 95\% accuracy
-    - Created a framework for data pre-processing, integration and communication of project premises such as operational schedule of wells, maintenance program and asset availability
-    - Assessed the risk of different production estimations for the decision-making process using Excel @Risk.
-- **Resource management:** Coordinated a team of three engineers responsible for the resource allocation of submarine equipment and vessels for 15 projects (10\% of total capital cost).
-    - Presented the monthly resource optimisation strategy to head management for appraisal, before submission to procurement
-    - Created an Excel decision support model for evaluating impact of resource allocation changes, and liaised with project managers to deliver the optimal production output for the portfolio
-    - Under my coordination, a team of three engineers was responsible for the resource allocation of submarine equipment and vessels for 15 projects (10\% of total capital cost) liaising with stakeholders to optimise the oil production for the portfolio
 
-[comment]: # (Programmed the activity of eight vessels in an in-house scheduling platform, connecting 25 ultra-deep wells in 2015, and reducing the average idle time in 5%.)
+__Management__ | Ron y Sazon Eten en Drinken 
+_The Hague - NL (Jan 2016 - June 2017)_
 
-__Industrial Engineer__ | Petrobras Refining  
-_Rio de Janeiro - Brazil (Apr 2009 - Apr 2014)_
+- A Latin American and Venezuelan cuisine restaurant in The Hague, Netherlands (sold and closed).
+- Oversaw finances and accounting, marketing campaigns on online and offline platforms.
+- Developed the menu, entertainment, and general nature of the restaurant.
+- Gained feedback from clientele and used such feedback to improve the restaurant.
 
-Responsible for the corporate supply chain management governance of 12 units throughout the nation, and for liaising with asset management teams.
-- Optimised spare parts' inventory, looking at the failure history of assets, production security, material costs and logistics, through survival analysis modelling and Monte Carlo simulation
-- Developed and implemented a shared inventory model for high-cost, low-demand spare-parts, through soft systems methodology (SSM) and data envelopment analysis (DEA) - published on the Journal of the Operational Research Society (UK). This initiative, associated with inventory optimisation, allowed the reduction of inventory value from US\$ 5.7 to US\$ 4.2 million
-- Built a model to assess the gasoline distribution costs between refineries, terminals and Brazilian regions, considering ships, trucks and pipelines - published in Brazilian Symposium of Operational Research
-- Liaised with maintenance, reliability and engineering teams to develop the first version of the Predictive Maintenance Supply Planning Standard for Petrobras Refining Division, supporting 12 refineries
-- Responsible for the supply chain dashboard for the refinery system, using SAP ERP and BI data
+__Global Support Intern__ | EYES International  
+_The Hague - NL (March 2016 - April 2016)_
 
-[comment]: # (Designed inventory outsourcing contracts for 6 refineries)
-[comment]: # (Member of the refining inventory demobilisation team, negotiating the return of USD 16 million in stock value of unused spare-parts to suppliers)
-[comment]: # (Evaluated the supply chain management compliance in 6 refineries, comparing them to Petrobras benchmarks in inventory control, procurement and maintenance integration)
-[comment]: # (Responsible for materials supply planning of scheduled maintenance shortages, integrating with Asset Management processes.)
-[comment]: # (Designed performance KPIs for material planning and overplus requests for large maintenance projects)
-[comment]: # (Developed the first version of the Predictive Maintenance Supply Planning Standard for Petrobras Refining Division, supporting 12 refineries)
-[comment]: # (Liaised with maintenance, reliability and engineering teams to deliver the supply chain plan for units’ routine maintenance data mining SAP reports to feed a survival analysis model on Weibul++)
-[comment]: # (Experienced in materials procurement management for two large maintenance projects - USD 25 million, each and one revamp project - USD 100 million)
+- Interviewing and data collection from members of the organization for purposes such as updating internal databases, gaining feedback, generating content for publishing and the establishment of new features and platforms to increase the value of the organization for the members.
+- Reaching out to third parties and other organizations for event planning and execution, as well as to expand our presence and ties with other entrepreneurial organizations.
 
-__Graduate Consultant for Utilities__ | SAP  
-_Sao Paulo - Brazil (Jan 2007 - Oct 2008)_
+[comment]: # 
 
-Evaluated Customer Relationship Management processes adherence in SAP Utilities systems projects (gas and electricity distribution companies).
 
-[comment]: # (Supported pre-sales teams for consumer products and beverages industries)
-[comment]: # (Responsible for assessing the implementation practices at SAP projects for Brazilian gas and energy distribution companies, such as Neoenergia, CPFL and Comgas.)
-[comment]: # (This task involved a lot of experience exchange with SAP Germany and Latin America employees, alongside defining the best implementation techniques that would comply with the process required by the customer.s I had the opportunity to define the data communication strategy from the CRM module to the central SAP module, regarding utilities customer databases.)
-[comment]: # (Supported commercial teams for consumer products and beverages industries, such as Coca-Cola, Schincariol, Johnson & Johnson and Fast Shop.)
+## [Academic Background](https://www.linkedin.com/in/josephisai/)
+__Bachelor of Arts (BA) Integrated Social Sciences__  
+_Jacobs University, Germany (2013 - 2016)_  
+- Integrated Social Sciences (Bachelor of Arts) is a program with a multidisciplinary approach that takes economics, entrepreneurship, political science, sociology, and media communication to understand how contemporary societies & economies have developed and function. 
+- The nature of the Jacobs University curriculum also provides experience from other fields such as business, psychology, and the natural sciences.
 
-## [Academic Background](https://www.linkedin.com/in/efs-alvarenga/)
-__Doctor of Philosophy (PhD) Management Science__ (Incomplete)  
-_University of Bath, UK (2016 - 2017)_  
-Research areas: Evolutionary optimisation, time-series forecast, portfolio optimisation, energy aggregation
 
-__PG Diploma Petroleum Engineering__  
-_Catholic University Rio de Janeiro, Brazil (2014 - 2015)_  
-400-hour postgraduate course comprising reservoir, drilling, production engineering and economic analysis
 
-__Master of Science (MSc) Operational Research__  
-_Federal University Rio de Janeiro, Brazil (2011 - 2014)_  
-Modules: Statistics, linear programming, graph theory, simulation and soft systems methodology  
-Research areas: Systems modelling, data envelopment analysis and calculus of variations
+### Qualifications and Skills
+**Software and Programming**  
+R, Python, SQL, WebDev(basic), PowerBI, Spotfire, Petroleum Experts software, Microsoft Office software, SPSS, digital audio workstation software, image processing
 
-__PG Diploma Production Engineering for the Oil & Gas Industry__  
-_Petrobras University, Brazil (2008 - 2009)_  
-600-hour corporate training program, developing required technical and organisational skills for the industry
-
-__Industrial Engineering (BSc)__  
-_Federal University Sao Carlos, Brazil (2003 - 2007)_  
-Basic engineering, business analysis, production methods, operational research and agricultural processes
-
-### Organisations
-**The IET Institution of Engineering and Technology**  
-CEng MIET, former social media coordinator for IET Bristol  
-
-**ORS Operational Research Society**  
-CandORS, oil & energy peer reviewer for the society journal (JORS)  
-
-**European Journal of Operational Research**  
-Data envelopment analysis (DEA) peer reviewer  
-
-**SPE Society of Petroleum Engineers**  
-Volunteer translator and career pathways advisor
+**Skills**  
+Research, data collection, critical analysis, proficient communication and presentation skills, writing
 
 ### Languages
-**English** Fluent (IELTS Academic Test score: 8/9)  
-**Portuguese** Native language  
-**Spanish** Basic proficiency
-
-### Publications
-**2018** Soft systems methodology applied to oil refineries inventory process (in Portuguese) In: Estellita Lins *et al*. Complex problem structuring: embedding concept maps to decision support models. 1st Ed. Interciencia. 14th chapter.  
-**2018** Predictive modelling of water losses using random forests on weather covariates, *WST Water Science and Technology* [DOI:10.2166/ws.2018.044](http://ws.iwaponline.com/content/early/2018/03/16/ws.2018.044)  
-**2016** Selection of corporate spare parts inventory for Brazilian refineries: a smoothed data envelopment analysis frontier function, *JORS Journal of the Operational Research Society* [DOI:10.1057/jors.2016.44](https://www.tandfonline.com/doi/abs/10.1057/jors.2016.44?journalCode=tjor20)  
-**2013** Optimisation of gasoline distribution costs across Brazilian refineries, terminals and demand regions (in Portuguese), *Brazilian Operational Research Symposium*  [XLV SBPO conference proceedings](http://www.din.uem.br/~ademir/sbpo/sbpo2013/pdf/arq0181.pdf)
+**English** Native
+**Spanish** Native language  
+**German** Basic/intermediate proficiency
+**Portuguese** Basic proficiency
+**French** Basic proficiency
